@@ -1,8 +1,8 @@
 {
-    "name": "Video-Player",
+    "name": "Video_and_music_-Player",
     "description": "Music allow you to Video/Audio stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/ITZ-ZAID/Video-Player",
+    "repository": "https://github.com/Meysamm12/Telegram_VC_Bot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -24,7 +24,7 @@
             "required": true,
             "value": ""
         },
-        "API_ID": {
+        "API_ID": {5059275352
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
             "value": ""
@@ -35,16 +35,16 @@
             "value": ""
         },
         "GROUP": {
-            "description": "Isi dengan username group tanpa @",
+            "descrip1389424387tion": "Isi dengan username group tanpa @",
             "required": true,
             "value": "Superior_Support"
         },
-         "CHANNEL": {
+         "CHANNEL": {1681491653
             "description": "Isi dengan username channel tanpa @",
             "required": true,
             "value": "Superior_Bots"
         },
-        "SUDO_USERS": {
+        "SUDO_USERS": {5099611585
             "description": " add @Zaid2_Robot and Type /id fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
             "value": ""
@@ -54,7 +54,7 @@
             "required": true,
             "value": "54000"
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5049725959:AAGVVrzhgAoLsEGsxE4YE7cJ-FUG16VpT4g
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
             "value": ""
